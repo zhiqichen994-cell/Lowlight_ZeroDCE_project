@@ -1,0 +1,102 @@
+==================================================
+训练开始时间: 2026-02-26 15:50:54
+Device: cpu
+Epochs: 50, LR: 0.0001, Batch Size: 4
+==================================================
+Epoch [001/50] | Train Loss: 0.045735 | Val Loss: 0.069594 | Time: 2.98s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [002/50] | Train Loss: 0.056906 | Val Loss: 0.061951 | Time: 2.84s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [003/50] | Train Loss: 0.041319 | Val Loss: 0.054063 | Time: 2.88s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [004/50] | Train Loss: 0.030683 | Val Loss: 0.046285 | Time: 2.92s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [005/50] | Train Loss: 0.027872 | Val Loss: 0.038479 | Time: 2.71s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [006/50] | Train Loss: 0.022924 | Val Loss: 0.030598 | Time: 2.92s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [007/50] | Train Loss: 0.018641 | Val Loss: 0.022785 | Time: 3.17s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [008/50] | Train Loss: 0.017172 | Val Loss: 0.016301 | Time: 3.04s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [009/50] | Train Loss: 0.012998 | Val Loss: 0.012203 | Time: 3.04s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [010/50] | Train Loss: 0.009993 | Val Loss: 0.011020 | Time: 3.10s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [011/50] | Train Loss: 0.009215 | Val Loss: 0.010501 | Time: 3.09s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [012/50] | Train Loss: 0.008406 | Val Loss: 0.009331 | Time: 3.02s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [013/50] | Train Loss: 0.007068 | Val Loss: 0.008103 | Time: 3.01s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [014/50] | Train Loss: 0.005785 | Val Loss: 0.007233 | Time: 3.02s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [015/50] | Train Loss: 0.005126 | Val Loss: 0.006519 | Time: 3.32s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [016/50] | Train Loss: 0.003820 | Val Loss: 0.005917 | Time: 3.32s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [017/50] | Train Loss: 0.003531 | Val Loss: 0.005636 | Time: 3.43s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [018/50] | Train Loss: 0.003643 | Val Loss: 0.005677 | Time: 3.46s
+Epoch [019/50] | Train Loss: 0.003587 | Val Loss: 0.005638 | Time: 3.29s
+Epoch [020/50] | Train Loss: 0.003167 | Val Loss: 0.005461 | Time: 3.07s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [021/50] | Train Loss: 0.003311 | Val Loss: 0.005409 | Time: 3.09s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [022/50] | Train Loss: 0.003231 | Val Loss: 0.005393 | Time: 3.20s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [023/50] | Train Loss: 0.002916 | Val Loss: 0.005304 | Time: 3.60s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [024/50] | Train Loss: 0.002890 | Val Loss: 0.005200 | Time: 3.43s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [025/50] | Train Loss: 0.003071 | Val Loss: 0.005121 | Time: 3.39s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [026/50] | Train Loss: 0.003222 | Val Loss: 0.004981 | Time: 3.62s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [027/50] | Train Loss: 0.002905 | Val Loss: 0.004908 | Time: 3.50s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [028/50] | Train Loss: 0.003124 | Val Loss: 0.004872 | Time: 3.35s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [029/50] | Train Loss: 0.002962 | Val Loss: 0.004895 | Time: 3.35s
+Epoch [030/50] | Train Loss: 0.002741 | Val Loss: 0.004906 | Time: 3.06s
+Epoch [031/50] | Train Loss: 0.003306 | Val Loss: 0.004897 | Time: 3.23s
+Epoch [032/50] | Train Loss: 0.002739 | Val Loss: 0.004775 | Time: 3.43s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [033/50] | Train Loss: 0.003141 | Val Loss: 0.004703 | Time: 3.63s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [034/50] | Train Loss: 0.002609 | Val Loss: 0.004648 | Time: 3.66s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [035/50] | Train Loss: 0.002523 | Val Loss: 0.004588 | Time: 3.63s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [036/50] | Train Loss: 0.002718 | Val Loss: 0.004490 | Time: 3.67s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [037/50] | Train Loss: 0.002867 | Val Loss: 0.004394 | Time: 3.66s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [038/50] | Train Loss: 0.002834 | Val Loss: 0.004356 | Time: 3.61s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [039/50] | Train Loss: 0.002798 | Val Loss: 0.004417 | Time: 3.62s
+Epoch [040/50] | Train Loss: 0.002444 | Val Loss: 0.004496 | Time: 3.64s
+Epoch [041/50] | Train Loss: 0.002567 | Val Loss: 0.004518 | Time: 3.50s
+Epoch [042/50] | Train Loss: 0.002616 | Val Loss: 0.004477 | Time: 3.26s
+Epoch [043/50] | Train Loss: 0.002383 | Val Loss: 0.004388 | Time: 3.16s
+Epoch [044/50] | Train Loss: 0.002427 | Val Loss: 0.004312 | Time: 3.19s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [045/50] | Train Loss: 0.002747 | Val Loss: 0.004255 | Time: 3.20s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [046/50] | Train Loss: 0.002812 | Val Loss: 0.004175 | Time: 3.23s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [047/50] | Train Loss: 0.002450 | Val Loss: 0.004128 | Time: 3.22s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [048/50] | Train Loss: 0.002318 | Val Loss: 0.004071 | Time: 3.18s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [049/50] | Train Loss: 0.002415 | Val Loss: 0.004055 | Time: 3.19s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+Epoch [050/50] | Train Loss: 0.002456 | Val Loss: 0.004022 | Time: 3.22s
+  --> 发现更优模型，已保存至: checkpoints\best_model_20260226_155054.pth
+
+==================================================
+训练完成！
+总耗时: 2.73 分钟
+最佳验证损失: 0.004022
+==================================================
+绘图失败: No module named 'matplotlib'
